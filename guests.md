@@ -14,4 +14,4 @@
 | Lilian Rasmussen   | 4                |
 | Julian             | 3                |
 | Maxibon            | 5                |
-| Vincent DiBernardo | 2                |
+| Vincent DiBernardo | 4                |
